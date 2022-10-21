@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Isabelle",
+      "details": "aro",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Odilon",
+      "details": "et porro tempora"
+    }
+  ]
+}

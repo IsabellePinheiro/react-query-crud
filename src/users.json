@@ -1,0 +1,18 @@
+{
+"users":[
+    {
+       
+        "id": 1,
+        "name": "Isabelle",
+        "details": "quis ut nam facilis et officia qui"
+
+    },
+    {
+       
+        "id": 2,
+        "name": "Odilon",
+        "details": "et porro tempora"
+
+    }
+]
+}
